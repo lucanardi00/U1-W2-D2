@@ -66,21 +66,22 @@ if (equalsEight[0] === 8) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let totalShoppingCart
-const list = {
+/*const totalShoppingCart{
   obj1: 40,
+  obj2: 5,
 }
 const shippingFee = 10
+let total
 
 if (totalShoppingCart < 50) {
-  totalShoppingCart = list + shippingFee
+  total = totalShoppingCart + shippingFee
   console.log(
     'Attenzione, la tua spesa non supera i 50 Euro! Pagherai la spesa di spedizione'
   )
 } else {
   totalShoppingCart = list
 }
-
+*/
 /* ESERCIZIO 6
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
   Modifica la risposta precedente includendo questa nuova promozione nell'algoritmo, determinando come prima se le spedizioni sono gratuite oppure no e e calcolando il totale.
@@ -95,6 +96,9 @@ if (totalShoppingCart < 50) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const nmb1 = 1
+const nmb2 = 2
+const nmb3 = 3
 
 /* ESERCIZIO 8
   Crea un algoritmo per verificare che un valore fornito sia un numero oppure no (suggerimento: cerca su un motore di ricerca "typeof").
